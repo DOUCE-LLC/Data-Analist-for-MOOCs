@@ -36,15 +36,6 @@ This project goes beyond the creation of visualizations and dashboards; it aims 
 
 I will propose three additional KPIs that align with the project's narrative. These KPIs will be integrated into the dashboard, allowing stakeholders to monitor the company's performance effectively. Each KPI will be thoroughly explained, emphasizing its relevance and functionality.
 
-## Repository Structure
-
-- **Notebooks**: This folder contains Jupyter Notebooks documenting the exploratory analysis and dashboard creation.
-- **Data**: All relevant datasets, including the ones provided and additional datasets, will be stored here.
-- **Visualizations**: This folder holds visualizations generated during the exploratory analysis and for the dashboard.
-- **Resources**: Additional resources, such as images or configuration files, can be found here.
-- **Presentation**: Here, you will find the video demonstration of the dashboard and a comprehensive analysis report, including the suggested KPIs.
-- **Data Engineer**: This folder focuses on data engineering tasks, such as data ingestion, cleaning, and transformation scripts.
-
 ## Feedback and Evaluation
 
 I welcome feedback and constructive criticism. It is crucial for me to grow as a professional and improve my skills. I am committed to receiving feedback
