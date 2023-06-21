@@ -16,7 +16,7 @@ Furthermore, I will create a visually appealing Word Cloud that highlights the m
 
 To monitor the company's performance, I will focus on one key performance indicator (KPI) initially and propose three additional KPIs based on my analysis. The primary KPI is the conversion rate of free enrolments to paid enrolments, aiming to increase it by 15% compared to the previous year. I will also explore the possibility of obtaining complementary datasets from other platforms to evaluate this KPI across different MOOCs providers.
 
-![Alt text](image-1.png)
+![Alt text](./Resources/image-1.png)
 
 ## Approach and Deliverables
 
